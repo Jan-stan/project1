@@ -1,0 +1,12 @@
+how to install jenkins
+
+sudo su
+apt update -y
+apt upgrade -y
+apt install openjdk-17-jre -y ( install java )
+
+goto jenkins.io and copy the command to install jenkins (-y)
+
+cat < copy the path > enter
+copy the password
+login to jenkins and get started.
